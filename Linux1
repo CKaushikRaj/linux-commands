@@ -1,0 +1,34 @@
+1  mkdir Kaushik
+    3  touch k1
+    4  cat >>k1
+    5  cat >k2
+    6  vi k2
+    8  cat -n k2
+    9  cat -s k2
+   10  cat k1 k2 >k3
+   12  cp k1 k4
+   15  cat k1 k2 k3 k4
+   16  vi k3
+   18  cat -n k3
+   19  cat -b k3
+   21  mkdir Raj
+   23  nano Indoor
+   24  cat Indoor
+   27  pwd
+   31  touch k4
+   32  mv k4 /home/labes/project/Kaushik
+   33  mv Indoor /home/labes/project/Kaushik
+   34  mv Indoor /home/labex/project/Kaushik
+   40  cat k3
+   41  cat k2
+   44  cat k4
+   45  rm k4
+   46  ls
+   47  cd ..
+   48  rmdir Raj
+   49  cd Raj
+   50  cd kaushik
+   51  cd Kaushik
+   52  date
+   53  time
+   54  tree
