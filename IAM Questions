@@ -1,0 +1,16 @@
+What is AWS IAM?
+Explain the concept of IAM users, groups, and roles in AWS IAM.
+What is the IAM policy in AWS, and how does it work?
+Explain the difference between an IAM policy and an IAM policy document.
+What are managed policies and inline policies in AWS IAM?
+What is the AWS IAM access key, and why is it used?
+How can you ensure the principle of least privilege when setting up IAM policies?
+What is MFA in AWS IAM?
+Explain the process of setting up cross-account access using IAM roles.
+What is IAM access key rotation, and why is it important for security?
+What are the core elements of an AWS IAM policy statement and what is each element’s purpose?
+What happens if you have one IAM statement that allows a principal to perform an operation on a resource and another statement that denies that same operation on the same resource?
+What are the basic differences between IAM roles and users? When should you use each?
+What are the 5 top security credentials in AWS IAM?
+What is the IAM Hierarchy of Privileges?
+What are the features of AWS IAM?
